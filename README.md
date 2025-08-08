@@ -44,7 +44,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaLion&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&exclude_repo=REPO1,REPO2&hide=php,blade&layout=compact&theme=radical" />
+
 </p>
 
 ---
