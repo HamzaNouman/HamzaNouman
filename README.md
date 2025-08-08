@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
-<h3 align="center">Python Developer | AI Enthusiast | Future Tech Builder</h3>
+<p align="center">
+  <img width="1800" height="744" alt="carbon" src="https://github.com/user-attachments/assets/d195841f-e25c-4e6f-bed5-bb1f24defa3a" />
+</p>
+
 
 ---
 
