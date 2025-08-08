@@ -21,8 +21,11 @@
 - 🌍 I love:  
   Adventure novels, solving puzzles, natural places like **Maldives**, and learning deeply
 
-- 📫 How to reach me:  
-  📧 hamzanouman2009@gmail.com
+### 📬 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-hamzanouman2009@gmail.com-green?style=for-the-badge&logo=gmail)](mailto:hamzanouman2009@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-HamzaNouman-black?style=for-the-badge&logo=github)](https://github.com/HamzaNouman)
+[![Discord](https://img.shields.io/badge/Discord-Hamza__Lion-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1067034294419197992)
 
 ---
 
