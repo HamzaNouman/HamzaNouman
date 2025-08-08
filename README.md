@@ -13,13 +13,13 @@
   `Python`, `FastAPI`, `Flask`, `Arduino`, `JavaScript`, `React`, `SQLite`, `Node.js`
 
 - 💬 Ask me about:  
-  `AI`, `ML`, `Automation`, `Security`, or how to make a robot see with a camera 👁️
+  `AI`, `ML`, `Automation`
 
 - 🌍 I love:  
   Adventure novels, solving puzzles, natural places like **Maldives**, and learning deeply
 
 - 📫 How to reach me:  
-  📧 hamza@example.com (replace with your real email)
+  📧 hamzanouman2009@gmail.com
 
 ---
 
